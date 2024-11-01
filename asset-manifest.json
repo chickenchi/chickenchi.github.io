@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/randomrpg/static/css/main.aca68f5b.css",
+    "main.js": "/randomrpg/static/js/main.e484b168.js",
+    "index.html": "/randomrpg/index.html",
+    "main.aca68f5b.css.map": "/randomrpg/static/css/main.aca68f5b.css.map",
+    "main.e484b168.js.map": "/randomrpg/static/js/main.e484b168.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aca68f5b.css",
+    "static/js/main.e484b168.js"
+  ]
+}
